@@ -1891,12 +1891,12 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 #dashtodockContainer.left .dash-item-container > StWidget.running1:active, #dashtodockContainer.left .dash-item-container > StWidget.running1.focused {
-  box-shadow: inset 5px 0 #E95420;
+  box-shadow: inset 6px 0 #E95420;
   background-color: rgba(233, 84, 32, 0.5);
 }
 
 #dashtodockContainer.left .dash-item-container > StWidget.running1:hover {
-  box-shadow: inset 5px 0 #E95420;
+  box-shadow: inset 6px 0 #E95420;
   background-color: rgba(233, 84, 32, 0.5);
 }
 
@@ -1918,12 +1918,12 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 #dashtodockContainer.left .dash-item-container > StWidget.running2:active, #dashtodockContainer.left .dash-item-container > StWidget.running2.focused {
-  box-shadow: inset 5px 0 #E95420;
+  box-shadow: inset 6px 0 #E95420;
   background-color: rgba(233, 84, 32, 0.5);
 }
 
 #dashtodockContainer.left .dash-item-container > StWidget.running2:hover {
-  box-shadow: inset 5px 0 #E95420;
+  box-shadow: inset 6px 0 #E95420;
   background-color: rgba(233, 84, 32, 0.5);
 }
 
@@ -1945,12 +1945,12 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 #dashtodockContainer.left .dash-item-container > StWidget.running3:active, #dashtodockContainer.left .dash-item-container > StWidget.running3.focused {
-  box-shadow: inset 5px 0 #E95420;
+  box-shadow: inset 6px 0 #E95420;
   background-color: rgba(233, 84, 32, 0.5);
 }
 
 #dashtodockContainer.left .dash-item-container > StWidget.running3:hover {
-  box-shadow: inset 5px 0 #E95420;
+  box-shadow: inset 6px 0 #E95420;
   background-color: rgba(233, 84, 32, 0.5);
 }
 
@@ -1972,12 +1972,12 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 #dashtodockContainer.left .dash-item-container > StWidget.running4:active, #dashtodockContainer.left .dash-item-container > StWidget.running4.focused {
-  box-shadow: inset 5px 0 #E95420;
+  box-shadow: inset 6px 0 #E95420;
   background-color: rgba(233, 84, 32, 0.5);
 }
 
 #dashtodockContainer.left .dash-item-container > StWidget.running4:hover {
-  box-shadow: inset 5px 0 #E95420;
+  box-shadow: inset 6px 0 #E95420;
   background-color: rgba(233, 84, 32, 0.5);
 }
 
@@ -1999,12 +1999,12 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 #dashtodockContainer.right .dash-item-container > StWidget.running1:active, #dashtodockContainer.right .dash-item-container > StWidget.running1.focused {
-  box-shadow: inset -5px 0 #E95420;
+  box-shadow: inset -6px 0 #E95420;
   background-color: rgba(233, 84, 32, 0.5);
 }
 
 #dashtodockContainer.right .dash-item-container > StWidget.running1:hover {
-  box-shadow: inset -5px 0 #E95420;
+  box-shadow: inset -6px 0 #E95420;
   background-color: rgba(233, 84, 32, 0.5);
 }
 
@@ -2026,12 +2026,12 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 #dashtodockContainer.right .dash-item-container > StWidget.running2:active, #dashtodockContainer.right .dash-item-container > StWidget.running2.focused {
-  box-shadow: inset -5px 0 #E95420;
+  box-shadow: inset -6px 0 #E95420;
   background-color: rgba(233, 84, 32, 0.5);
 }
 
 #dashtodockContainer.right .dash-item-container > StWidget.running2:hover {
-  box-shadow: inset -5px 0 #E95420;
+  box-shadow: inset -6px 0 #E95420;
   background-color: rgba(233, 84, 32, 0.5);
 }
 
@@ -2053,12 +2053,12 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 #dashtodockContainer.right .dash-item-container > StWidget.running3:active, #dashtodockContainer.right .dash-item-container > StWidget.running3.focused {
-  box-shadow: inset -5px 0 #E95420;
+  box-shadow: inset -6px 0 #E95420;
   background-color: rgba(233, 84, 32, 0.5);
 }
 
 #dashtodockContainer.right .dash-item-container > StWidget.running3:hover {
-  box-shadow: inset -5px 0 #E95420;
+  box-shadow: inset -6px 0 #E95420;
   background-color: rgba(233, 84, 32, 0.5);
 }
 
@@ -2080,12 +2080,12 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 #dashtodockContainer.right .dash-item-container > StWidget.running4:active, #dashtodockContainer.right .dash-item-container > StWidget.running4.focused {
-  box-shadow: inset -5px 0 #E95420;
+  box-shadow: inset -6px 0 #E95420;
   background-color: rgba(233, 84, 32, 0.5);
 }
 
 #dashtodockContainer.right .dash-item-container > StWidget.running4:hover {
-  box-shadow: inset -5px 0 #E95420;
+  box-shadow: inset -6px 0 #E95420;
   background-color: rgba(233, 84, 32, 0.5);
 }
 
@@ -2107,12 +2107,12 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 #dashtodockContainer.top .dash-item-container > StWidget.running1:active, #dashtodockContainer.top .dash-item-container > StWidget.running1.focused {
-  box-shadow: inset 0px 5px #E95420;
+  box-shadow: inset 0px 6px #E95420;
   background-color: rgba(233, 84, 32, 0.5);
 }
 
 #dashtodockContainer.top .dash-item-container > StWidget.running1:hover {
-  box-shadow: inset 0px 5px #E95420;
+  box-shadow: inset 0px 6px #E95420;
   background-color: rgba(233, 84, 32, 0.5);
 }
 
@@ -2134,12 +2134,12 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 #dashtodockContainer.top .dash-item-container > StWidget.running2:active, #dashtodockContainer.top .dash-item-container > StWidget.running2.focused {
-  box-shadow: inset 0px 5px #E95420;
+  box-shadow: inset 0px 6px #E95420;
   background-color: rgba(233, 84, 32, 0.5);
 }
 
 #dashtodockContainer.top .dash-item-container > StWidget.running2:hover {
-  box-shadow: inset 0px 5px #E95420;
+  box-shadow: inset 0px 6px #E95420;
   background-color: rgba(233, 84, 32, 0.5);
 }
 
@@ -2161,12 +2161,12 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 #dashtodockContainer.top .dash-item-container > StWidget.running3:active, #dashtodockContainer.top .dash-item-container > StWidget.running3.focused {
-  box-shadow: inset 0px 5px #E95420;
+  box-shadow: inset 0px 6px #E95420;
   background-color: rgba(233, 84, 32, 0.5);
 }
 
 #dashtodockContainer.top .dash-item-container > StWidget.running3:hover {
-  box-shadow: inset 0px 5px #E95420;
+  box-shadow: inset 0px 6px #E95420;
   background-color: rgba(233, 84, 32, 0.5);
 }
 
@@ -2188,12 +2188,12 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 #dashtodockContainer.top .dash-item-container > StWidget.running4:active, #dashtodockContainer.top .dash-item-container > StWidget.running4.focused {
-  box-shadow: inset 0px 5px #E95420;
+  box-shadow: inset 0px 6px #E95420;
   background-color: rgba(233, 84, 32, 0.5);
 }
 
 #dashtodockContainer.top .dash-item-container > StWidget.running4:hover {
-  box-shadow: inset 0px 5px #E95420;
+  box-shadow: inset 0px 6px #E95420;
   background-color: rgba(233, 84, 32, 0.5);
 }
 
@@ -2215,12 +2215,12 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 #dashtodockContainer.bottom .dash-item-container > StWidget.running1:active, #dashtodockContainer.bottom .dash-item-container > StWidget.running1.focused {
-  box-shadow: inset 0px -5px #E95420;
+  box-shadow: inset 0px -6px #E95420;
   background-color: rgba(233, 84, 32, 0.5);
 }
 
 #dashtodockContainer.bottom .dash-item-container > StWidget.running1:hover {
-  box-shadow: inset 0px -5px #E95420;
+  box-shadow: inset 0px -6px #E95420;
   background-color: rgba(233, 84, 32, 0.5);
 }
 
@@ -2242,12 +2242,12 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 #dashtodockContainer.bottom .dash-item-container > StWidget.running2:active, #dashtodockContainer.bottom .dash-item-container > StWidget.running2.focused {
-  box-shadow: inset 0px -5px #E95420;
+  box-shadow: inset 0px -6px #E95420;
   background-color: rgba(233, 84, 32, 0.5);
 }
 
 #dashtodockContainer.bottom .dash-item-container > StWidget.running2:hover {
-  box-shadow: inset 0px -5px #E95420;
+  box-shadow: inset 0px -6px #E95420;
   background-color: rgba(233, 84, 32, 0.5);
 }
 
@@ -2269,12 +2269,12 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 #dashtodockContainer.bottom .dash-item-container > StWidget.running3:active, #dashtodockContainer.bottom .dash-item-container > StWidget.running3.focused {
-  box-shadow: inset 0px -5px #E95420;
+  box-shadow: inset 0px -6px #E95420;
   background-color: rgba(233, 84, 32, 0.5);
 }
 
 #dashtodockContainer.bottom .dash-item-container > StWidget.running3:hover {
-  box-shadow: inset 0px -5px #E95420;
+  box-shadow: inset 0px -6px #E95420;
   background-color: rgba(233, 84, 32, 0.5);
 }
 
@@ -2296,12 +2296,12 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 }
 
 #dashtodockContainer.bottom .dash-item-container > StWidget.running4:active, #dashtodockContainer.bottom .dash-item-container > StWidget.running4.focused {
-  box-shadow: inset 0px -5px #E95420;
+  box-shadow: inset 0px -6px #E95420;
   background-color: rgba(233, 84, 32, 0.5);
 }
 
 #dashtodockContainer.bottom .dash-item-container > StWidget.running4:hover {
-  box-shadow: inset 0px -5px #E95420;
+  box-shadow: inset 0px -6px #E95420;
   background-color: rgba(233, 84, 32, 0.5);
 }
 
