@@ -1008,6 +1008,10 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 #panel {
   background: rgba(17, 17, 17, 0.5);
   box-shadow: none;
+  border: none;
+  background-gradient-direction: none;
+  background-gradient-start: none;
+  background-gradient-direction: none;
   font-size: 9.5pt;
   height: 27px;
 }
